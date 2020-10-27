@@ -2,9 +2,6 @@
     "name": "sneycampos/eloquent-prefixes",
     "description": "Allow to work with prefixes attributes name",
     "license" : "MIT",
-    "require": {
-        "illuminate/database": "^6.0"
-    },
     "authors": [
         {
             "name": "Vagner do Carmo",
