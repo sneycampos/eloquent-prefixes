@@ -4,7 +4,7 @@ That package allows you to prefix attributes on your eloquent models.
 
 # Installation
 
-    composer require vluzrmos/eloquent-prefixes
+    composer require sneycampos/eloquent-prefixes
     
 # Usage
 
