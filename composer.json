@@ -3,7 +3,7 @@
     "description": "Allow to work with prefixes attributes name",
     "license" : "MIT",
     "require": {
-        "illuminate/database": "^5.0"
+        "illuminate/database": "^6.0"
     },
     "authors": [
         {
