@@ -1,9 +1,9 @@
 {
-    "name": "vluzrmos/eloquent-prefixes",
+    "name": "sneycampos/eloquent-prefixes",
     "description": "Allow to work with prefixes attributes name",
     "license" : "MIT",
     "require": {
-        "illuminate/database": "~5.0"
+        "illuminate/database": "^5.0"
     },
     "authors": [
         {
